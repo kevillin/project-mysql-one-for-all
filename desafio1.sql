@@ -60,7 +60,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
   INSERT INTO SpotifyClone.planos (tipo_plano, valor_plano)
   VALUES
     ('gratuito', 0.00),
-	('universitario', 5.99),
+	  ('universitario', 5.99),
     ('pessoal', 6.99),
     ('familiar', 7.99);
 
